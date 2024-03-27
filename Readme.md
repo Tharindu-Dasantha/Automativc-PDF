@@ -13,9 +13,9 @@ Look no further! My latest project leverages Python automation to efficiently ha
 
 ## Project Structure and Code Quality:
 
-The project is structured into modular functions, promoting code reusability and maintainability.   
-Error handling mechanisms are implemented to gracefully manage exceptions and ensure smooth execution.  
-Python best practices are followed to maintain code quality, including descriptive variable names, comments for clarity, and adherence to PEP 8 style guidelines.  
+The project is structured into modular functions, promoting code reusability and maintainability.     
+Error handling mechanisms are implemented to gracefully manage exceptions and ensure smooth execution.    
+Python best practices are followed to maintain code quality, including descriptive variable names, comments for clarity, and adherence to PEP 8 style guidelines.    
 
 ## Libraries Used:
 
