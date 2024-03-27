@@ -19,9 +19,9 @@ Python best practices are followed to maintain code quality, including descripti
 
 ## Libraries Used:
 
-_fillpdf_: This library enables the manipulation of PDF files, allowing for the dynamic filling of form fields and the generation of customized PDF documents.
-_pandas_: Leveraging the power of pandas, our solution efficiently handles CSV data, providing robust data manipulation capabilities for seamless integration with the invoicing process.
-_datetime_: The datetime module is utilized for capturing and managing date information, ensuring accurate timestamping of invoices.
+_fillpdf_: This library enables the manipulation of PDF files, allowing for the dynamic filling of form fields and the generation of customized PDF documents.  
+_pandas_: Leveraging the power of pandas, our solution efficiently handles CSV data, providing robust data manipulation capabilities for seamless integration with the invoicing process.  
+_datetime_: The datetime module is utilized for capturing and managing date information, ensuring accurate timestamping of invoices.  
 
 
 Transform your invoicing workflow with our innovative Python solution.
