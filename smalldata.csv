@@ -1,0 +1,4 @@
+CustomerName,DueDate,Price,PaidPrice
+John Doe,2024-04-15,150.00,0.00
+Jane Smith,2024-04-10,200.00,100.00
+Michael Johnson,2024-04-20,300.00,150.00
